@@ -1,3 +1,6 @@
+**A FORK OF UDEMY'S REPO**
+* [Now moved to GitLab](https://gitlab.com/wasmontenegro/run-aspnetcore-microservices-cicd)
+  
 **UDEMY COURSE WITH DISCOUNTED - Step by Step Development of this Repository -> https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=MARC26**
 
 See the overall picture of **implementations on microservices with .net tools** on real-world **e-commerce microservices** project;
